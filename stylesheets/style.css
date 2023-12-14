@@ -181,7 +181,7 @@ a, a:hover {
 .main-heading {
     font-family: "Tex_B";
     font-weight: normal;
-    color: #E74C3C;
+    color:#f1c40f;
     font-size: 54px;
     line-height: 61px;
     margin-top: 15px;
@@ -191,7 +191,7 @@ a, a:hover {
 .small-heading {
     font-family: "Tex_R";
     font-weight: normal;
-    color: #E74C3C;
+    color: #f1c40f;
     font-size: 24px;
     line-height: 31px;
 }
@@ -201,24 +201,24 @@ a, a:hover {
     font-family: "Roboto_L";
     font-weight: normal;
     text-transform: uppercase;
-    color: #000;
+    color:#3498db;
     font-size: 16px;
     line-height: 27px;
     padding: 15px;
-    border: solid 4px #000;
+    border: solid 4px #3498db;
 }
 
 .promo-text {
     font-size: 24px;
     line-height: 43px;
-    color: #555;
+    color: white;
     font-family: "Tex_R";
 }
 
 .promo-text > span {
     font-size: 32px;
     line-height: 43px;
-    color: #555;
+    color: goldenrod;
     font-family: "Tex_B";
 }
 
@@ -227,11 +227,11 @@ a, a:hover {
     font-family: "Roboto_L";
     font-weight: normal;
     text-transform: uppercase;
-    color: #fff;
+    color: #3498db;
     font-size: 16px;
     line-height: 27px;
     padding: 15px;
-    border: solid 4px #fff;
+    border: solid 4px #3498db;
 }
 
 .promo-text-alt {
@@ -244,7 +244,7 @@ a, a:hover {
 .promo-text-alt > span {
     font-size: 32px;
     line-height: 43px;
-    color: #fff;
+    color: goldenrod;
     font-family: "Tex_B";
 }
 
@@ -314,13 +314,13 @@ a, a:hover {
     font-family: "Roboto_L";
     text-transform: uppercase;
     font-weight: normal;
-    background: #E74C3C;
+    background: goldenrod;
     color: #fff;
     margin-bottom: 0;
     font-size: 16px;
     line-height: 27px;
     padding: 15px;
-    border: solid 4px #E74C3C;
+    border: solid 4px goldenrod;
     transition: all 1.25s ease;
     -moz-transition: all 1.25s ease;
     -webkit-transition: all 1.25s ease;
@@ -346,7 +346,7 @@ a, a:hover {
 #explore a img {
     display: none;
     opacity: 1;
-    background: #e74c3c;
+    background: goldenrod;
     width: 68px;
     height: 68px;
     border-radius: 68px;
@@ -400,7 +400,7 @@ a, a:hover {
 }
 
 .red-slide {
-    background: #ca4040;
+    background: #3498db;
 }
 
 .blue-slide {
